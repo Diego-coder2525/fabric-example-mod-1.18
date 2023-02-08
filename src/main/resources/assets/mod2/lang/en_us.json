@@ -1,0 +1,13 @@
+{
+  "item.mod2.mythril_ingot": "Mythril Ingot",
+  "item.mod2.raw_mythril": "Raw Mythril",
+  "item.mod2.mythril_nugget": "Mythril Nugget",
+
+  "block.mod2.mythril_block": "Mythril Block",
+  "block.mod2.mythril_ore": "Mythril Ore",
+  "block.mod2.deepslate_mythril_ore": "Deepslate Mythril Ore",
+  "block.mod2.netherrack_mythril_ore": "Netherrack Mythril Ore",
+  "block.mod2.raw_mythril_block": "Raw Mythril Block",
+
+  "itemGroup.mod2.mythril": "Mythril Mod Tab"
+}

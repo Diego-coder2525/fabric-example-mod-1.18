@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": {"model": "mod2:block/raw_mythril_block"}
+  }
+}
