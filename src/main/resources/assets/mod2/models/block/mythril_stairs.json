@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "mod2:block/mythril_block",
+    "top": "mod2:block/mythril_block",
+    "side": "mod2:block/mythril_block"
+  }
+}

@@ -20,6 +20,9 @@
   "entrypoints": {
     "main": [
       "net.diego.mod2.Mod2"
+    ],
+    "client": [
+      "net.diego.mod2.Mod2ClientMod"
     ]
   },
   "mixins": [

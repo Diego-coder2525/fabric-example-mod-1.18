@@ -2,6 +2,8 @@ package net.diego.mod2;
 
 import net.diego.mod2.block.ModBlocks;
 import net.diego.mod2.item.ModItems;
+import net.diego.mod2.painting.ModPaintings;
+import net.diego.mod2.util.ModRegistries;
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -19,5 +21,8 @@ public class Mod2 implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
+		ModRegistries.registerModStuffs();
+		ModPaintings.registerPaintings();
+
 	}
 }

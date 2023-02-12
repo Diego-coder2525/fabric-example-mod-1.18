@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "mod2:mythril_block",
+    "mod2:deepslate_mythril_ore",
+    "mod2:netherrack_mythril_ore",
+    "mod2:mythril_ore",
+    "mod2:raw_mythril_block"
+  ]
+}
