@@ -1,0 +1,6 @@
+{
+  "parent": "mod2:item/mod2_bow",
+  "textures": {
+    "layer0": "mod2:item/mod2_bow_pulling_0"
+  }
+}

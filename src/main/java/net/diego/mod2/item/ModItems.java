@@ -1,6 +1,7 @@
 package net.diego.mod2.item;
 
 import net.diego.mod2.Mod2;
+import net.diego.mod2.block.ModBlocks;
 import net.diego.mod2.item.custom.*;
 import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.minecraft.entity.EquipmentSlot;
@@ -54,6 +55,11 @@ public class ModItems {
             new Item(new FabricItemSettings().group(ModItemGroup.MYTHRIL)));
     public static final Item DATA_TABLET = registerItem("data_tablet",
             new DataTabletItem(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxCount(1)));
+    public static final Item GRAPE_SEEDS = registerItem("grape_seeds",
+            new AliasedBlockItem(ModBlocks.GRAPE_VINE,new FabricItemSettings().group(ModItemGroup.MYTHRIL)));
+    public static final Item MOD2_BOW = registerItem("mod2_bow",
+            new BowItem(new FabricItemSettings().group(ModItemGroup.MYTHRIL).maxCount(1).maxDamage(120)));
+
 
 
 

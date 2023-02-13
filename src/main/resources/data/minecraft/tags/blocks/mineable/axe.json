@@ -1,6 +1,9 @@
 {
   "replace": false,
   "values": [
-
+    "mod2:mod2_door",
+    "mod2:mod2_trapdoor",
+    "mod2:mythril_fence",
+    "mod2:mythril_fence_gate"
   ]
 }

@@ -16,7 +16,10 @@
   "item.mod2.mythril_boots": "Mythril Boots",
   "item.mod2.magic_mythril_dust": "Magic Mythril Dust",
   "item.mod2.data_tablet": "Data Tablet",
+  "item.mod2.grape_seeds": "Grape Seeds",
+  "item.mod2.mod2_bow": "Mod2 Bow",
 
+  "block.mod2.grape_vine": "Grape Vine",
   "block.mod2.mythril_block": "Mythril Block",
   "block.mod2.mythril_ore": "Mythril Ore",
   "block.mod2.deepslate_mythril_ore": "Deepslate Mythril Ore",
@@ -35,6 +38,7 @@
   "block.mod2.lilac_flower": "Lilac Flower",
   "block.mod2.potted_lilac_flower": "Potted Lilac Flower",
   "block.mod2.mythril_lamp": "Mythril Lamp",
+  "block.mod2.winter_window": "Winter Window",
 
   "itemGroup.mod2.mythril": "Mythril Mod Tab",
 
@@ -42,5 +46,7 @@
 
   "item.mod2.dowsing_rod.tooltip.shift": "Rigth Click to find valuables ores",
   "item.mod2.dowsing_rod.tooltip": "Press §5SHIFT§r for more §eINFORMATION§r",
-  "tooltip.mod2.mythril_block": "A Magical Block"
+  "tooltip.mod2.mythril_block": "A Magical Block",
+
+  "mod2.dowsing_rod_found_ore": "Found Ore Sound"
 }

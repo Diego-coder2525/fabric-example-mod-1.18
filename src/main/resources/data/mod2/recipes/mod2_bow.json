@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " $%",
+    "$#%",
+    " $%"
+  ],
+  "key": {
+    "#": {
+      "tag": "c:mythril_ingots"
+    },
+    "$": {
+      "item": "minecraft:stick"
+    },
+    "%": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "mod2:mod2_bow"
+  }
+}

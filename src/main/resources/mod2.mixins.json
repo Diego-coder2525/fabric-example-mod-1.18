@@ -4,6 +4,7 @@
   "package": "net.diego.mod2.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "ModEntityDataSaver"
   ],
   "client": [
     "ExampleMixin"

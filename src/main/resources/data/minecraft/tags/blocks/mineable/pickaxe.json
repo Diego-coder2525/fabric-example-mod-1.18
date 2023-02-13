@@ -5,6 +5,14 @@
     "mod2:deepslate_mythril_ore",
     "mod2:netherrack_mythril_ore",
     "mod2:mythril_ore",
-    "mod2:raw_mythril_block"
+    "mod2:raw_mythril_block",
+    "mod2:mythril_lamp",
+    "mod2:mythril_pressure_plate",
+    "mod2:mythril_slab",
+    "mod2:mythril_stairs",
+    "mod2:mythril_wall",
+    "mod2:speedy_block",
+    "mod2:winter_window",
+    "mod2:mythril_button"
   ]
 }

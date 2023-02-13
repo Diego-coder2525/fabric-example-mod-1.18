@@ -1,6 +1,17 @@
 {
   "replace": false,
   "values": [
+    "mod2:mythril_lamp",
+    "mod2:mythril_pressure_plate",
+    "mod2:mythril_slab",
+    "mod2:mythril_stairs",
+    "mod2:speedy_block",
+    "mod2:winter_window",
+    "mod2:mythril_wall",
+    "mod2:mythril_fence",
+    "mod2:mod2_door",
+    "mod2:mod2_trapdoor",
+    "mod2:mythril_fence_gate"
 
   ]
 }

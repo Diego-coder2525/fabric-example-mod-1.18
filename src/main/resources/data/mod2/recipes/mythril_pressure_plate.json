@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "pattern": [
+    "## "
+
+  ],
+  "key": {
+    "#": {
+      "tag": "c:mythril_ingots"
+    }
+  },
+  "result": {
+    "item": "mod2:mythril_pressure_plate"
+  }
+}

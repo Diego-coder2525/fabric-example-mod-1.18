@@ -1,6 +1,7 @@
 package net.diego.mod2.item.custom;
 
 import net.diego.mod2.item.ModItems;
+import net.diego.mod2.sound.ModSounds;
 import net.diego.mod2.util.InventoryUtil;
 import net.diego.mod2.util.ModTags;
 import net.minecraft.block.Block;
@@ -12,6 +13,7 @@ import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemUsageContext;
 import net.minecraft.nbt.NbtCompound;
+import net.minecraft.sound.SoundCategory;
 import net.minecraft.text.LiteralText;
 import net.minecraft.text.Text;
 import net.minecraft.text.TranslatableText;
@@ -46,6 +48,9 @@ public class DowsingRodItem extends Item {
                     if(InventoryUtil.hasPlayerStackInInventory(player, ModItems.DATA_TABLET)) {
                         addNbtToDataTablet(player, positionClicked.add(0, -i, 0), blockBelow);
                     }
+
+                    context.getWorld().playSound(player, positionClicked, ModSounds.DOWSING_ROD_FOUND_ORE,
+                            SoundCategory.BLOCKS, 1f,1f);
 
                     break;
                 }
